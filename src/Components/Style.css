@@ -1,0 +1,204 @@
+.mapped{
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important; 
+    align-items: center !important;
+    flex-wrap: wrap !important;
+  }
+  .card {
+    position: relative !important;
+    width: 320px !important;
+    height: 450px !important;
+    background: #232323 !important;
+    border-radius: 20px !important;
+    overflow: hidden !important;
+    margin: 50px !important;
+    border: none !important;
+  }
+  .card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 202, 202);
+    clip-path: circle(150px at 80% 80%);
+    transition: 0.5s ease-in-out;
+  }
+  .card:hover::before {
+    clip-path: circle(300px at 80% -20%);
+  }
+  .card::after {
+    content: "Diko";
+    position: absolute;
+    top: 30%;
+    left: -20%;
+    font-size: 12em;
+    font-weight: 800;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.04);
+  }
+  .card .imgBx {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    width: 100%;
+    height: 240px;
+    transition: 0.5s;
+  }
+  .card:hover .imgBx {
+    top: 0%;
+    transform: translateY(0%);
+  }
+  .card .imgBx img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-25deg);
+    width: 270px;
+  }
+  .card .contentBx {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    transition: 1s;
+    z-index: 10;
+  }
+  .card:hover .contentBx {
+    height: 210px;
+    transform-style: preserve-3d;
+  }
+  .card .contentBx h2 {
+    position: relative;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #fff;
+  }
+  .card .contentBx .size,
+  .card .contentBx .color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    transition: 0.5s;
+  }
+  .card .contentBx .size h3,
+  .card .contentBx .color h3 {
+    color: #fff;
+    font-weight: 300;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-right: 10px;
+  }
+  .card .contentBx .size span {
+    width: 60px;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    font-size: 14px;
+    display: inline-block;
+    color: #111;
+    background: #fff;
+    margin: 0 5px;
+    transition: 0.5s;
+    color: #111;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .card .contentBx .size span:hover {
+    background: rgb(0, 202, 202);
+  }
+  .card .contentBx .color span {
+      width: 60px;
+      height: 26px;
+      text-align: center;
+      line-height: 26px;
+      font-size: 14px;
+      display: inline-block;
+      color: #111;
+      background: #fff;
+      margin: 0 5px;
+      transition: 0.5s;
+      color: #111;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+  }
+  .card .contentBx button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 4px;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #111;
+    opacity: 0;
+    transform: translateY(50px);
+    transition: 0.5s;
+    border: none;
+  }
+  .card .contentBx .color span:hover {
+    background: rgb(0, 202, 202);
+  }
+  .card:hover .contentBx button {
+    opacity: 1;
+    transform: translateY(0px);
+    transition-delay: 0.75s;
+  }
+  .card:hover .contentBx button:hover{
+    background: darkorange;
+    transition-delay: 0s !important;
+  }
+  .discount {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: #e91e63;
+    border-radius: 0px 0px 10px;
+    text-align: center;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    color: #fff;
+    font-weight: bold;
+  }
+  .block_nav{
+    display: flex;
+    justify-content: space-between;
+  }
+  .divnav{
+    z-index: 1;
+    position: relative;
+  }
+  .divnav::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 1300px;
+    height: 100%;
+    background: #fff;
+    border-radius: 8px;
+    transform: skewX(15deg);
+    transition: .5s;
+    filter: blur(30px);
+  }
+  .divnav::after{
+    background: linear-gradient(315deg, #03a9f4, #ff0058);
+  }
+  .divnav .bip {
+    position: relative;
+    background: rgba(255, 255, 255, 0.1);
+    opacity: .8;
+    backdrop-filter: blur(10px);
+  }

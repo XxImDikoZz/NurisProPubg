@@ -1,0 +1,1277 @@
+[
+    {
+        "id": 707,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF 100mm f/2.8L Macro IS USM",
+        "main_image": {
+            "id": 2543,
+            "path": {
+                "original": "https://clipart-best.com/img/photo-camera/photo-camera-clip-art-27.png"
+            },
+            "size": {
+                "original": 26480
+            },
+            "dimensions": { 
+                "original": {
+                    "width": 701,
+                    "height": 405
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 28953,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 708,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF 70-200mm f/2.8L IS USM",
+        "main_image": {
+            "id": 2546,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7836.png"
+            },
+            "size": {
+                "original": 23956
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 313
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 26926,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 693,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF-S 18-55mm f/3.5-5.6 IS",
+        "main_image": {
+            "id": 2516,
+            "path": {
+                "original": "https://pngicon.ru/file/uploads/1303507796_camera_grey.png"
+            },
+            "size": {
+                "original": 22968
+            },
+            "dimensions": {
+                "original": {
+                    "width": 529,
+                    "height": 442
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 26998,
+        "discount": 10,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 710,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF 70-200mm f/2.8L IS III USM",
+        "main_image": {
+            "id": 2549,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7852.png"
+            },
+            "size": {
+                "original": 21898
+            },
+            "dimensions": {
+                "original": {
+                    "width": 591,
+                    "height": 270
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 27895,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 711,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF-S 17-55mm f/2.8 IS USM",
+        "main_image": {
+            "id": 2551,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7852.png"
+            },
+            "size": {
+                "original": 24978
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 437
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 14573,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 712,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF 24-105mm f/4L IS II USM",
+        "main_image": {
+            "id": 2554,
+            "path": {
+                "original": "https://www.pngmart.com/files/6/Canon-Transparent-Background.png"
+            },
+            "size": {
+                "original": 39224
+            },
+            "dimensions": {
+                "original": {
+                    "width": 604,
+                    "height": 484
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 10201,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 713,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF 70-200mm f/4L IS USM",
+        "main_image": {
+            "id": 2558,
+            "path": {
+                "original": "https://clipart-best.com/img/photo-camera/photo-camera-clip-art-27.png"
+            },
+            "size": {
+                "original": 21304
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 351
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 23738,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 714,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon RF 28-70mm f/2L USM",
+        "main_image": {
+            "id": 2560,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7836.png"
+            },
+            "size": {
+                "original": 15084
+            },
+            "dimensions": {
+                "original": {
+                    "width": 444,
+                    "height": 322
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 23474,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 715,
+        "title": "Объектив Canon",
+        "description": "Объектив Canon EF 16-35mm f/2.8L III USM",
+        "main_image": {
+            "id": 2561,
+            "path": {
+                "original": "https://pngicon.ru/file/uploads/1303507796_camera_grey.png"
+            },
+            "size": {
+                "original": 38242
+            },
+            "dimensions": {
+                "original": {
+                    "width": 571,
+                    "height": 474
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 25713,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 716,
+        "title": "Объектив Tamron",
+        "description": "Объектив Tamron AF SP 24-70mm f/2.8 DI VC USD G2 (A032) Canon EF",
+        "main_image": {
+            "id": 2563,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7852.png"
+            },
+            "size": {
+                "original": 16142
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 532
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 17986,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 717,
+        "title": "Фотоаппарат Nikon",
+        "description": "Фотоаппарат Nikon D3300 Kit",
+        "main_image": {
+            "id": 2568,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7852.png"
+            },
+            "size": {
+                "original": 59394
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 561
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 22148,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 718,
+        "title": "Вспышка YongNuo",
+        "description": "Вспышка YongNuo Speedlite YN-560 IV",
+        "main_image": {
+            "id": 2574,
+            "path": {
+                "original": "https://mcgrp.ru/images/1084970/1123768.png"
+            },
+            "size": {
+                "original": 18574
+            },
+            "dimensions": {
+                "original": {
+                    "width": 435,
+                    "height": 519
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 12797,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 719,
+        "title": "Вспышка Canon",
+        "description": "Вспышка Canon Speedlite 430EX II",
+        "main_image": {
+            "id": 2578,
+            "path": {
+                "original": "https://clipart-best.com/img/photo-camera/photo-camera-clip-art-27.png"
+            },
+            "size": {
+                "original": 21916
+            },
+            "dimensions": {
+                "original": {
+                    "width": 378,
+                    "height": 585
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 15341,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 720,
+        "title": "Вспышка YongNuo",
+        "description": "Вспышка YongNuo Speedlite YN-560 III",
+        "main_image": {
+            "id": 2580,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7836.png"
+            },
+            "size": {
+                "original": 26228
+            },
+            "dimensions": {
+                "original": {
+                    "width": 540,
+                    "height": 701
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 16319,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 725,
+        "title": "Вспышка Canon",
+        "description": "Вспышка Canon Speedlite 600EX II-RT",
+        "main_image": {
+            "id": 2594,
+            "path": {
+                "original": "https://www.pngmart.com/files/6/Canon-Transparent-Background.png"
+            },
+            "size": {
+                "original": 44420
+            },
+            "dimensions": {
+                "original": {
+                    "width": 438,
+                    "height": 701
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 28691,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 726,
+        "title": "Вспышка YongNuo",
+        "description": "Вспышка YongNuo Speedlite YN-660",
+        "main_image": {
+            "id": 2598,
+            "path": {
+                "original": "https://pngimg.com/uploads/photo_camera/photo_camera_PNG7852.png"
+            },
+            "size": {
+                "original": 17378
+            },
+            "dimensions": {
+                "original": {
+                    "width": 466,
+                    "height": 540
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 11963,
+        "discount": null,
+        "basket": false,
+        "category_id": 206
+    },
+    {
+        "id": 564,
+        "title": "Часы Amazfit",
+        "description": "Умные часы Amazfit Bip U Pro",
+        "main_image": {
+            "id": 2165,
+            "path": {
+                "original": "https://purepng.com/public/uploads/large/apple-watch-pcq.png"
+            },
+            "size": {
+                "original": 40992
+            },
+            "dimensions": {
+                "original": {
+                    "width": 648,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1000,
+        "discount": null,
+        "basket": false,
+        "category_id": 180
+    },
+    {
+        "id": 566,
+        "title": "Mi Band 5",
+        "description": "Умный браслет Xiaomi Mi Band 5",
+        "main_image": {
+            "id": 2172,
+            "path": {
+                "original": "http://pngimg.com/uploads/watches/watches_PNG9868.png"
+            },
+            "size": {
+                "original": 33388
+            },
+            "dimensions": {
+                "original": {
+                    "width": 435,
+                    "height": 652
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1000,
+        "discount": 10,
+        "basket": false,
+        "category_id": 180
+    },
+    {
+        "id": 570,
+        "title": "Микрофон",
+        "description": "Микрофон QCY T5 Pro",
+        "main_image": {
+            "id": 2183,
+            "path": {
+                "original": "http://pngimg.com/uploads/microphone/microphone_PNG7899.png"
+            },
+            "size": {
+                "original": 22560
+            },
+            "dimensions": {
+                "original": {
+                    "width": 437,
+                    "height": 556
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1000,
+        "discount": 10,
+        "basket": false,
+        "category_id": 179
+    },
+    {
+        "id": 11,
+        "title": "Apple iPad  Wi-Fi",
+        "description": "Планшет Apple iPad  Wi-Fi",
+        "main_image": {
+            "id": 129,
+            "path": {
+                "original": "http://pngimg.com/uploads/tablet/tablet_PNG8565.png"
+            },
+            "size": {
+                "original": 21190
+            },
+            "dimensions": {
+                "original": {
+                    "width": 492,
+                    "height": 579
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 29801,
+        "discount": null,
+        "basket": false,
+        "category_id": 24
+    },
+    {
+        "id": 12,
+        "title": "Smart Cover для iPad",
+        "description": "Apple Smart Cover для Apple iPad  10.2\"/iPad Air 10.5\"",
+        "main_image": {
+            "id": 117,
+            "path": {
+                "original": "http://pngimg.com/uploads/tablet/tablet_PNG8585.png"
+            },
+            "size": {
+                "original": 2922
+            },
+            "dimensions": {
+                "original": {
+                    "width": 503,
+                    "height": 701
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 4490,
+        "discount": null,
+        "basket": false,
+        "category_id": 24
+    },
+    {
+        "id": 1,
+        "title": "iPhone X",
+        "description": "Смартфон Apple iPhone X",
+        "main_image": {
+            "id": 3,
+            "path": {
+                "original": "https://avatanplus.com/files/resources/original/5a2892b60ff801602e7d1731.png"
+            },
+            "size": {
+                "original": 12074
+            },
+            "dimensions": {
+                "original": {
+                    "width": 321,
+                    "height": 620
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 44500,
+        "discount": 5,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 64,
+        "title": "iPhone 12 Pro",
+        "description": "Смартфон Apple iPhone 12 Pro",
+        "main_image": {
+            "id": 350,
+            "path": {
+                "original": "http://pngimg.com/uploads/iphone_12/iphone_12_PNG3.png"
+            },
+            "size": {
+                "original": 9914
+            },
+            "dimensions": {
+                "original": {
+                    "width": 361,
+                    "height": 701
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 93300,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 151,
+        "title": "iPhone 12 Pro Max",
+        "description": "Смартфон Apple iPhone 12 Pro Max",
+        "main_image": {
+            "id": 656,
+            "path": {
+                "original": "https://discountshop-online.com/604-medium_default/apple-iphone-12-pro-max-128-256-512-go.jpg"
+            },
+            "size": {
+                "original": 14496
+            },
+            "dimensions": {
+                "original": {
+                    "width": 517,
+                    "height": 701
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 101700,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 70,
+        "title": "Redmi Note 9 Pro",
+        "description": "Смартфон Xiaomi Redmi Note 9 Pro",
+        "main_image": {
+            "id": 329,
+            "path": {
+                "original": "http://www.xiaomi.kg/wp-content/uploads/2020/08/pms_1590131445.00925890.png"
+            },
+            "size": {
+                "original": 39515
+            },
+            "dimensions": {
+                "original": {
+                    "width": 421,
+                    "height": 518
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 14750,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 179,
+        "title": "MAXVI K18",
+        "description": "Телефон MAXVI K18",
+        "main_image": {
+            "id": 791,
+            "path": {
+                "original": "http://pngimg.com/uploads/smartphone/smartphone_PNG8494.png"
+            },
+            "size": {
+                "original": 143164
+            },
+            "dimensions": {
+                "original": {
+                    "width": 254,
+                    "height": 574
+                }
+            },
+            "extension": "png"
+        },
+        "price": 1600,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 181,
+        "title": "MAXVI C15",
+        "description": "Телефон MAXVI C15",
+        "main_image": {
+            "id": 826,
+            "path": {
+                "original": "http://pngimg.com/uploads/smartphone/smartphone_PNG8499.png"
+            },
+            "size": {
+                "original": 227085
+            },
+            "dimensions": {
+                "original": {
+                    "width": 381,
+                    "height": 691
+                }
+            },
+            "extension": "png"
+        },
+        "price": 1250,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 171,
+        "title": "Samsung Galaxy S9",
+        "description": "Смартфон Samsung Galaxy S9",
+        "main_image": {
+            "id": 746,
+            "path": {
+                "original": "https://www.searchpng.com/wp-content/uploads/2018/12/samsung-galaxy-s9-plus-715x715.png"
+            },
+            "size": {
+                "original": 35494
+            },
+            "dimensions": {
+                "original": {
+                    "width": 301,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 27600,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 176,
+        "title": "MAXVI X850",
+        "description": "Телефон MAXVI X850",
+        "main_image": {
+            "id": 785,
+            "path": {
+                "original": "http://pngimg.com/uploads/smartphone/smartphone_PNG8499.png"
+            },
+            "size": {
+                "original": 51657
+            },
+            "dimensions": {
+                "original": {
+                    "width": 470,
+                    "height": 643
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 2400,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 152,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 289",
+        "main_image": {
+            "id": 650,
+            "path": {
+                "original": "https://inoy.org/i/inoi/inoi-r7.png"
+            },
+            "size": {
+                "original": 58359
+            },
+            "dimensions": {
+                "original": {
+                    "width": 510,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1650,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 177,
+        "title": "Samsung Galaxy A41",
+        "description": "Смартфон Samsung Galaxy A41",
+        "main_image": {
+            "id": 807,
+            "path": {
+                "original": "https://www.digicelgroup.com/content/dam/digicel-redesign/devices/samsung/galaxy-a41/GalaxyA41.png"
+            },
+            "size": {
+                "original": 16516
+            },
+            "dimensions": {
+                "original": {
+                    "width": 308,
+                    "height": 613
+                }
+            },
+            "extension": "webp"
+        },
+        "price": 17800,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 169,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 104",
+        "main_image": {
+            "id": 726,
+            "path": {
+                "original": "https://www.ixbt.com/img/x780x600/n1/news/2019/8/1/INOI.png"
+            },
+            "size": {
+                "original": 36755
+            },
+            "dimensions": {
+                "original": {
+                    "width": 392,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1600,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 100,
+        "title": "Redmi Note 8",
+        "description": "Смартфон Xiaomi Redmi Note 8",
+        "main_image": {
+            "id": 462,
+            "path": {
+                "original": "https://softech.kg/image/cache/595560b6157bf993f563064f6c72b9d6.png"
+            },
+            "size": {
+                "original": 45998
+            },
+            "dimensions": {
+                "original": {
+                    "width": 543,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 13750,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 150,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 239",
+        "main_image": {
+            "id": 634,
+            "path": {
+                "original": "https://inoy.org/i/inoi/inoi-r7.png"
+            },
+            "size": {
+                "original": 24193
+            },
+            "dimensions": {
+                "original": {
+                    "width": 214,
+                    "height": 470
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1200,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 156,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 241",
+        "main_image": {
+            "id": 681,
+            "path": {
+                "original": "https://www.gsmpress.com.ua/images/news/1559066992368.png"
+            },
+            "size": {
+                "original": 45639
+            },
+            "dimensions": {
+                "original": {
+                    "width": 513,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1350,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 168,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 109",
+        "main_image": {
+            "id": 709,
+            "path": {
+                "original": "https://filearchive.cnews.ru/img/news/2020/06/05/inoiphone.png"
+            },
+            "size": {
+                "original": 49943
+            },
+            "dimensions": {
+                "original": {
+                    "width": 499,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1300,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 142,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 287",
+        "main_image": {
+            "id": 593,
+            "path": {
+                "original": "https://filearchive.cnews.ru/img/news/2020/06/05/inoiphone.png"
+            },
+            "size": {
+                "original": 21982
+            },
+            "dimensions": {
+                "original": {
+                    "width": 212,
+                    "height": 470
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1650,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 145,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 281",
+        "main_image": {
+            "id": 621,
+            "path": {
+                "original": "https://www.gsmpress.com.ua/images/news/1559066992368.png"
+            },
+            "size": {
+                "original": 43153
+            },
+            "dimensions": {
+                "original": {
+                    "width": 509,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1500,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 167,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 243",
+        "main_image": {
+            "id": 701,
+            "path": {
+                "original": "https://filearchive.cnews.ru/img/news/2020/06/05/inoiphone.png"
+            },
+            "size": {
+                "original": 47165
+            },
+            "dimensions": {
+                "original": {
+                    "width": 462,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1750,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 153,
+        "title": "Телефон INOI",
+        "description": "Телефон INOI 249",
+        "main_image": {
+            "id": 664,
+            "path": {
+                "original": "https://www.ixbt.com/img/x780x600/n1/news/2019/8/1/INOI.png"
+            },
+            "size": {
+                "original": 50803
+            },
+            "dimensions": {
+                "original": {
+                    "width": 515,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1500,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 175,
+        "title": "Nokia 110",
+        "description": "Телефон Nokia 110",
+        "main_image": {
+            "id": 777,
+            "path": {
+                "original": "http://pngimg.com/uploads/smartphone/smartphone_PNG8499.png"
+            },
+            "size": {
+                "original": 32112
+            },
+            "dimensions": {
+                "original": {
+                    "width": 266,
+                    "height": 588
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 2350,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 78,
+        "title": "Samsung Galaxy A11",
+        "description": "Смартфон Samsung Galaxy A11",
+        "main_image": {
+            "id": 360,
+            "path": {
+                "original": "https://images.samsung.com/is/image/samsung/p6pim/uz_ru/sm-a115fzkncac/gallery/uz-ru-galaxy-a11-a115-sm-a115fzkncac-466494600?$720_576_PNG$"
+            },
+            "size": {
+                "original": 30508
+            },
+            "dimensions": {
+                "original": {
+                    "width": 308,
+                    "height": 604
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 10900,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 73,
+        "title": "Xiaomi Poco X3 NFC",
+        "description": "Смартфон Xiaomi Poco X3 NFC",
+        "main_image": {
+            "id": 348,
+            "path": {
+                "original": "https://www.ixbt.com/img/n1/news/2020/9/3/pms_1601004628.97447461_large.png"
+            },
+            "size": {
+                "original": 64493
+            },
+            "dimensions": {
+                "original": {
+                    "width": 587,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 19150,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 69,
+        "title": "Samsung Galaxy A51",
+        "description": "Смартфон Samsung Galaxy A51",
+        "main_image": {
+            "id": 336,
+            "path": {
+                "original": "https://cdn.shopify.com/s/files/1/0051/8301/2928/products/samsung_a51_dual_330x.png?v=1608300438"
+            },
+            "size": {
+                "original": 34007
+            },
+            "dimensions": {
+                "original": {
+                    "width": 285,
+                    "height": 581
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 19800,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 56,
+        "title": "Samsung Galaxy A31",
+        "description": "Смартфон Samsung Galaxy A31",
+        "main_image": {
+            "id": 320,
+            "path": {
+                "original": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a315fzkwins/gallery/in-galaxy-a31-a315-6gb-sm-a315fzkwins-thumb-416286189?$480_480_PNG$"
+            },
+            "size": {
+                "original": 30966
+            },
+            "dimensions": {
+                "original": {
+                    "width": 301,
+                    "height": 614
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 16000,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 10,
+        "title": "Гарнитура TurboSky",
+        "description": "Гарнитура TurboSky TK-5",
+        "main_image": {
+            "id": 61,
+            "path": {
+                "original": "https://pngimg.com/uploads/headphones/headphones_PNG7640.png"
+            },
+            "size": {
+                "original": 31508
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 387
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 3150,
+        "discount": null,
+        "basket": false,
+        "category_id": 179
+    },
+    {
+        "id": 9,
+        "title": "Телефон Panasonic",
+        "description": "Телефон Panasonic KX-TS2388",
+        "main_image": {
+            "id": 57,
+            "path": {
+                "original": "http://pngimg.com/uploads/smartphone/smartphone_PNG8499.png"
+            },
+            "size": {
+                "original": 62229
+            },
+            "dimensions": {
+                "original": {
+                    "width": 701,
+                    "height": 678
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 3280,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 8,
+        "title": "Рация TurboSky",
+        "description": "Рация TurboSky T9X2",
+        "main_image": {
+            "id": 51,
+            "path": {
+                "original": "https://www.турбоскай.рф/uploads/original/turbosky-t8-318.png"
+            },
+            "size": {
+                "original": 13916
+            },
+            "dimensions": {
+                "original": {
+                    "width": 228,
+                    "height": 316
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 5980,
+        "discount": null,
+        "basket": false,
+        "category_id": 179
+    },
+    {
+        "id": 184,
+        "title": "Телефон MAXVI",
+        "description": "Телефон MAXVI B5",
+        "main_image": {
+            "id": 836,
+            "path": {
+                "original": "http://pngimg.com/uploads/smartphone/smartphone_PNG8493.png"
+            },
+            "size": {
+                "original": 30638
+            },
+            "dimensions": {
+                "original": {
+                    "width": 270,
+                    "height": 516
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 2000,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 6,
+        "title": "Зарядка Apple",
+        "description": "Сетевая зарядка Apple MHJE3ZM/A",
+        "main_image": {
+            "id": 40,
+            "path": {
+                "original": "https://klg.shop.megafon.ru/images/goods/1359/135985_p_20.png"
+            },
+            "size": {
+                "original": 9362
+            },
+            "dimensions": {
+                "original": {
+                    "width": 360,
+                    "height": 701
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 1990,
+        "discount": 3,
+        "basket": false,
+        "category_id": 2
+    },
+    {
+        "id": 5,
+        "title": "Кабель Baseus",
+        "description": "Кабель Baseus Golden Belt Series USB - Lightning (CALGB) 1 м",
+        "main_image": {
+            "id": 28,
+            "path": {
+                "original": "https://cdn.shopify.com/s/files/1/0072/8111/5254/products/cabel_ac_prodyct_464x464.png"
+            },
+            "size": {
+                "original": 31589
+            },
+            "dimensions": {
+                "original": {
+                    "width": 574,
+                    "height": 555
+                }
+            },
+            "extension": "jpeg"
+        },
+        "price": 548,
+        "discount": null,
+        "basket": false,
+        "category_id": 2
+    }
+]
